@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Yexxdaddy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Developing Software 
+- 🌱 I’m currently learning how to takeover the world 
+- 💞️ I’m looking to collaborate on projects 
+- 📫 How to reach me Yexxdaddy@gmail.com
 
-<!---
-Yexxdaddy/Yexxdaddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Be sure to Keep Your Eyes open for Yexx Coin, and The Yexx Blockchain, as well as the Yexx Exchange -Yexx
